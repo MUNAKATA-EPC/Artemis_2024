@@ -21,7 +21,8 @@ OpenLeagueの残骸に関しては2025シーズンに向けての開発と思っ
 　間違ってもファイル名を"unko"とかにするなよ！！！！！(戒め)
 
  ## 使用ソフト
- ・ロボット設計：Autodesk Fusion 360  
- ・回路設計：KiCad 6.x (only use 6.x ver.)  
- ・プログラム開発：Microsoft Visual Studio Code  
- 　　　　　　　　　Arduino IDE  
+ |系統|ツール|
+ |----|----|
+ |ロボット設計|Autodesk Fusion 360  |
+ |回路設計|KiCad 6.x (only use 6.x ver.)  |
+ |プログラム開発|Microsoft Visual Studio Code <br>Arduino IDE   |
