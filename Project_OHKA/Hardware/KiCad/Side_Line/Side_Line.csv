@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+"LED","D1,D2,D3,D4,D5,D6","LED_THT:LED_D3.0mm_Clear",""
+"Conn_01x04_Socket","J1","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"Q_Photo_NPN","Q1,Q2,Q3,Q4,Q5,Q6,Q7","LED_THT:LED_D3.0mm_Clear",""
+"R","R1,R2,R3,R4,R5,R6","Resistor_SMD:R_0603_1608Metric",""
+"R_Small","R7","",""
+"R_Potentiometer_Trim_US","RV1","Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical",""

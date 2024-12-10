@@ -1,0 +1,27 @@
+### Footprint positions - created on Saturday, June 22, 2024 at 03:47:10 PM ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                      Package                                   PosX       PosY       Rot  Side
+D1        LED                      LED_D3.0mm_Clear                       93.0317    30.2812   18.0000  bottom
+D2        LED                      LED_D3.0mm_Clear                       96.0933    18.3825   10.8000  bottom
+D3        LED                      LED_D3.0mm_Clear                       97.6495     6.1945    3.6000  bottom
+D4        LED                      LED_D3.0mm_Clear                       97.6559    -6.0931   -3.6000  bottom
+D5        LED                      LED_D3.0mm_Clear                       96.1222   -18.2846  -10.8000  bottom
+D6        LED                      LED_D3.0mm_Clear                       93.0631   -30.1846  -18.0000  bottom
+Q1        Q_Photo_NPN              LED_D3.0mm_Clear                       93.3177    37.0017  -158.4000  bottom
+Q2        Q_Photo_NPN              LED_D3.0mm_Clear                       97.2194    25.0141  -165.6000  bottom
+Q3        Q_Photo_NPN              LED_D3.0mm_Clear                       99.5879    12.6321  -172.8000  bottom
+Q4        Q_Photo_NPN              LED_D3.0mm_Clear                      100.5078     0.0508  180.0000  bottom
+Q5        Q_Photo_NPN              LED_D3.0mm_Clear                       99.6006   -12.5313  172.8000  bottom
+Q6        Q_Photo_NPN              LED_D3.0mm_Clear                       97.2446   -24.9157  165.6000  bottom
+Q7        Q_Photo_NPN              LED_D3.0mm_Clear                       93.3551   -36.9072  158.4000  bottom
+R1        R                        R_0603_1608Metric                      94.5741    27.5343   14.4000  bottom
+R2        R                        R_0603_1608Metric                      97.2793    15.4639    7.2000  bottom
+R3        R                        R_0603_1608Metric                      98.4504     3.1496    0.0000  bottom
+R4        R                        R_0603_1608Metric                      98.4758    -3.0480    0.0000  bottom
+R5        R                        R_0603_1608Metric                      97.2921   -15.3631   -7.2000  bottom
+R6        R                        R_0603_1608Metric                      94.5994   -27.4359  -14.4000  bottom
+R7        R                        R_0603_1608Metric                      95.1484     3.3528  180.0000  bottom
+RV1       R_Potentiometer_Trim_US  Potentiometer_Bourns_TC33X_Vertical    95.0722    -0.0762  -90.0000  bottom
+## End

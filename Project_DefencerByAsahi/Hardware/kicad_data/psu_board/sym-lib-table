@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "OKL-T_6-W12N-C")(type "Legacy")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/OKL-T_6-W12N-C/OKL-T_6-W12N-C.lib")(options "")(descr ""))
+  (lib (name "TA48033S")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/TA48033S/TA48033S.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SSD1306")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/SSD1306/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "TSSP58038")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/TSSP58038")(options "")(descr ""))
+  (lib (name "Seeeduino_Xiao")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/Seeeduino_Xiao")(options "")(descr ""))
+  (lib (name "OpenMV")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/OpenMV")(options "")(descr ""))
+  (lib (name "_Others")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/_Others")(options "")(descr ""))
+  (lib (name "WS2812B")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/WS2812B")(options "")(descr ""))
+)

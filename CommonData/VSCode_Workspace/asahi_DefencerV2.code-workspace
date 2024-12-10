@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Project_DefencerV2_ByAsahi/Software/main_JapanOpen_teensy40"
+		},
+		{
+			"path": "../../Project_DefencerV2_ByAsahi/Software/l3gd20h_seeedxiao"
+		},
+		{
+			"path": "../../Project_DefencerV2_ByAsahi/Software/engelline_seeedxiao"
+		},
+		{
+			"path": "../../Project_DefencerV2_ByAsahi/Software/main_asahi_teensy40"
+		}
+	],
+	"settings": {}
+}

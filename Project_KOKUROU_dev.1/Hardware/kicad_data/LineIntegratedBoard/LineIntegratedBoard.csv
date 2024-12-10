@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+"Conn_01x08_Socket","J1,J2,J3","Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Vertical",""
+"Conn_01x05_Socket","J4","Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Vertical",""
+"CD74HC4067SM","U1","Package_SO:SSOP-24_5.3x8.2mm_P0.65mm","C98457"
+"SeeeduinoXIAO","U2","Seeeduino_Xiao:Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM",""

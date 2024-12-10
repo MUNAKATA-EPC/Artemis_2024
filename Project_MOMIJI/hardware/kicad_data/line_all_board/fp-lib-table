@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Line_Sensor")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/Line_Sensor")(options "")(descr ""))
+  (lib (name "Seeeduino_Xiao")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/Seeeduino_Xiao")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Variable_Register")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Variable_Register")(options "")(descr ""))
+  (lib (name "Teensy_Breakout")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Teensy_Breakout")(options "")(descr ""))
+  (lib (name "Seeeduino_Xiao")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Seeeduino_Xiao")(options "")(descr ""))
+  (lib (name "L3GD20H_Module")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/L3GD20H_Module")(options "")(descr ""))
+  (lib (name "Artemis_Logo")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Artemis_Logo")(options "")(descr ""))
+  (lib (name "_Others")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/_Others")(options "")(descr ""))
+)

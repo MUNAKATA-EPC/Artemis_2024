@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Line_sennsor")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib/Line_sennsor.pretty")(options "")(descr ""))
+  (lib (name "Lib")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib")(options "")(descr ""))
+)

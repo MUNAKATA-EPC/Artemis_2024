@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "XL6009")(type "KiCad")(uri "/Users/yume/Documents/GitHub/Artemis_2024/CommonData/KiCad_Library/XL6009")(options "")(descr ""))
+  (lib (name "Lib")(type "KiCad")(uri "/Users/yume/Documents/Munako_Artemis/KiCAD/Lib")(options "")(descr ""))
+)

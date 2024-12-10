@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/yume/Documents/Artemis/Artemis_2024/Project_MOMIJI/hardware/kicad_data/line_all_board/line_all_borard.kicad_sch</source>
+    <date>2024 June 15, Saturday 11:14:38</date>
+    <tool>Eeschema (6.0.11-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>line_all_borard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a953976-c7b5-40ea-93fd-3cd9e9c1e804</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cc242f1-0041-4d8f-86cd-47d3b74ade62</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>962b48ab-74ce-45a6-b830-6571eab1dcfe</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea009205-4abe-4f95-b889-80664bcd8c2b</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b9d827e-447a-43e0-9735-b29c47070ab5</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32a1b901-9151-4a7c-a786-6c4b5574972e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c19e3f2c-1eac-4f9a-a451-ffcf53edb41e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2150ac44-34dc-47d3-b00e-6d2180641747</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0427404-4814-4def-9d53-bb8c456b1dbe</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69f7a52d-024a-4925-80ff-8d4ba00d8c65</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a173858c-5ad2-488a-80a8-6cd4dbbf0fce</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e5481ec-aa9b-4a7c-9573-a9fecf7feb82</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0706961a-1d57-4091-9efe-c2c01f208c6b</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7ae7364-c5c9-4929-b36f-8ea8dd8a2389</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa85815d-ece7-4d97-a395-dbfbddf8bbd2</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70fc9003-e5ca-4b72-a9e0-4b546ee78c6e</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0124ffb-185c-4570-8bdb-952a7a71d50d</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d60edfa-b179-4a64-80d3-373e15b6e7d3</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ccd3e34-795d-4aca-8030-0ff5c8d1662e</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f22f8176-71ce-4f6f-aa93-9392bd9f4bf1</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb705665-3e74-4791-aabd-f433f19f99ce</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a92a54d-95c4-4c44-8cc8-04f139ed7ae0</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>C_Small</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f196989b-3a4f-4e4f-a955-fd62cab286f4</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c5bfc70-959f-4637-9f3c-0862add16041</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a87df8c-9d56-4a51-b44e-73d7c1bf6637</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee0cc910-caa3-4edf-9c1f-807de47caf67</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9126e1ad-acf6-49db-bfbb-78eb7bbbeb58</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a18034a-ba1d-48fb-8efe-a31010e4d309</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b58e337-97ca-4c9c-bc27-9d1f4216820a</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>887c8d66-eeb2-45f2-9476-ecfd5e3a0c78</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>734b74df-8f79-4c1a-974c-bd937548d470</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c797965c-24b8-4fcd-81b9-0f1e96e61ddd</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>089fbf70-c1b5-4d5a-ac31-8900b4d58ded</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b986b0f-e73a-438d-b3e5-9ab3089faaf0</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5636049-a755-49c3-b9d9-5bfa7c1f2319</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f46174d4-236b-4fed-ae58-e31d1fc45f96</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebf74edc-3a90-4445-8790-19f4fb59a2d8</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5893384-1fe1-4211-a19f-2a18ad52df69</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5b2a245-6e1c-4334-b495-dcd0a1ae0523</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>167df278-39dd-4800-84f7-7c8a1a2aae75</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56e11885-8295-43bf-866c-9ebaa3dac21d</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06b82cf8-08e1-4d0f-b278-f49ecd8217dc</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a6cc851-791a-4e70-899e-78fd3fd67234</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4936186-e895-4d8b-b289-ff1cbeb1d264</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2cc77c1-9cb3-42f4-ad37-0fb35c4d1591</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05_Female</value>
+      <footprint>Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Female" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a6b3001-c98b-472e-ab6f-e38df479d4bc</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0093d175-0d8c-4d19-8695-884ce0219ce5</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceb040c9-71c8-4683-a5b4-7cfb27799b71</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0201a0e3-58da-4e87-baaa-f305f197ee90</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cf3617f-c675-4fcc-8535-b6553431dd2b</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb20d24c-24df-44aa-a6c6-1853f25ca441</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cdd94de-00f2-45ac-8560-ebcb9257890a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cd94135-9a22-4e62-bc30-a842185b8fa1</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c51d7608-ed80-44ea-b376-954698c87155</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1610db84-9a01-4e30-8c4d-f49f7206a9ff</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a807c529-76d2-4e85-adf1-39a9083686cf</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06a83f68-ab03-400a-9c3b-2c013e832238</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5085c7e-8566-4615-90d0-4866a44c34d7</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20234bb4-7cf2-479a-af47-6eb9c776e34e</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a481d79a-3105-40d1-9943-8c1f375a25c5</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2256f065-ea5c-409f-a619-8e034de8ee4f</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc08cc90-cfd2-4850-bd78-c2777ed62c8e</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afdb2496-3939-4f21-9b88-25127a2ec9c0</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>491d62fd-86fe-4675-8ad0-fa42c79454ff</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b9a2d7c-6ec7-4744-b188-7f130b843dd2</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81564266-0655-4017-895a-833c8e6e26c8</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c57589fc-e78c-4927-b0b4-a0f0d37b7768</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>Line_sennsor</value>
+      <footprint>Line_Sensor:Line_Sensor_SMD</footprint>
+      <libsource lib="Line_Sensor" part="Line_sennsor" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ac529e5-1859-44ac-9046-f4b56c8c1171</tstamps>
+    </comp>
+    <comp ref="U23">
+      <value>SeeeduinoXIAO</value>
+      <footprint>Seeeduino_Xiao:seeeduinoXIAO</footprint>
+      <libsource lib="Seeeduino XIAO" part="SeeeduinoXIAO" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>258175f3-fca9-4bf9-b968-ba38e1724826</tstamps>
+    </comp>
+    <comp ref="U24">
+      <value>CD74HC4067SM</value>
+      <footprint>Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C98457</field>
+      </fields>
+      <libsource lib="74xx" part="CD74HC4067SM" description="High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24"/>
+      <property name="LCSC" value="C98457"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_all_borard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5765abdb-7777-4c8c-8aca-a552bfeb6f75</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="CD74HC4067SM">
+      <description>High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x8.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD74HC4067SM</field>
+        <field name="Footprint">Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="I7" type="passive"/>
+        <pin num="3" name="I6" type="passive"/>
+        <pin num="4" name="I5" type="passive"/>
+        <pin num="5" name="I4" type="passive"/>
+        <pin num="6" name="I3" type="passive"/>
+        <pin num="7" name="I2" type="passive"/>
+        <pin num="8" name="I1" type="passive"/>
+        <pin num="9" name="I0" type="passive"/>
+        <pin num="10" name="S0" type="input"/>
+        <pin num="11" name="S1" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="S3" type="input"/>
+        <pin num="14" name="S2" type="input"/>
+        <pin num="15" name="~{E}" type="input"/>
+        <pin num="16" name="I15" type="passive"/>
+        <pin num="17" name="I14" type="passive"/>
+        <pin num="18" name="I13" type="passive"/>
+        <pin num="19" name="I12" type="passive"/>
+        <pin num="20" name="I11" type="passive"/>
+        <pin num="21" name="I10" type="passive"/>
+        <pin num="22" name="I9" type="passive"/>
+        <pin num="23" name="I8" type="passive"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Female">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Line_Sensor" part="Line_sennsor">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Line_sennsor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K(-)" type="bidirectional"/>
+        <pin num="2" name="VCC" type="bidirectional"/>
+        <pin num="3" name="VOUT" type="bidirectional"/>
+        <pin num="4" name="GND" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Seeeduino XIAO" part="SeeeduinoXIAO">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SeeeduinoXIAO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA02_A0_D0" type="unspecified"/>
+        <pin num="2" name="PA4_A1_D1" type="unspecified"/>
+        <pin num="3" name="PA10_A2_D2" type="unspecified"/>
+        <pin num="4" name="PA11_A3_D3" type="unspecified"/>
+        <pin num="5" name="PA8_A4_D4_SDA" type="unspecified"/>
+        <pin num="6" name="PA9_A5_D5_SCL" type="unspecified"/>
+        <pin num="7" name="PB08_A6_D6_TX" type="unspecified"/>
+        <pin num="8" name="PB09_A7_D7_RX" type="unspecified"/>
+        <pin num="9" name="PA7_A8_D8_SCK" type="unspecified"/>
+        <pin num="10" name="PA5_A9_D9_MISO" type="unspecified"/>
+        <pin num="11" name="PA6_A10_D10_MOSI" type="unspecified"/>
+        <pin num="12" name="3V3" type="unspecified"/>
+        <pin num="13" name="GND" type="unspecified"/>
+        <pin num="14" name="5V" type="unspecified"/>
+        <pin num="15" name="5V" type="input"/>
+        <pin num="16" name="GND" type="input"/>
+        <pin num="17" name="PA31_SWDIO" type="input"/>
+        <pin num="18" name="PA30_SWCLK" type="input"/>
+        <pin num="19" name="RESET" type="input"/>
+        <pin num="20" name="GND" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Line_Sensor">
+      <uri>/Users/yume/Documents/Artemis/Artemis_2024/Project_MOMIJI/hardware/kicad_data/line_all_board/../../../../CommonData/KiCad_Library/Line_Sensor/Line_Sensor.kicad_sym</uri>
+    </library>
+    <library logical="Seeeduino XIAO">
+      <uri>/Users/yume/Documents/Artemis/Artemis_2024/Project_MOMIJI/hardware/kicad_data/line_all_board/../../../../CommonData/KiCad_Library/Seeeduino XIAO KICAD/Seeeduino XIAO.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U10" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U11" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U12" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U13" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U14" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U15" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U16" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U17" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U18" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U19" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U20" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U21" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U22" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U23" pin="12" pinfunction="3V3" pintype="unspecified"/>
+      <node ref="U24" pin="24" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U7" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U8" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U9" pin="2" pinfunction="VCC" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U23" pin="14" pinfunction="5V" pintype="unspecified"/>
+    </net>
+    <net code="3" name="D0">
+      <node ref="U1" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="9" pinfunction="I0" pintype="passive"/>
+    </net>
+    <net code="4" name="D1">
+      <node ref="U2" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="8" pinfunction="I1" pintype="passive"/>
+    </net>
+    <net code="5" name="D2">
+      <node ref="U24" pin="7" pinfunction="I2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="D3">
+      <node ref="U24" pin="6" pinfunction="I3" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="D4">
+      <node ref="U24" pin="5" pinfunction="I4" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="D5">
+      <node ref="U24" pin="4" pinfunction="I5" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="D6">
+      <node ref="U24" pin="3" pinfunction="I6" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="D7">
+      <node ref="U10" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="2" pinfunction="I7" pintype="passive"/>
+    </net>
+    <net code="11" name="D8">
+      <node ref="U13" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="23" pinfunction="I8" pintype="passive"/>
+    </net>
+    <net code="12" name="D9">
+      <node ref="U14" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="22" pinfunction="I9" pintype="passive"/>
+    </net>
+    <net code="13" name="D10">
+      <node ref="U15" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="21" pinfunction="I10" pintype="passive"/>
+    </net>
+    <net code="14" name="D11">
+      <node ref="U16" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="20" pinfunction="I11" pintype="passive"/>
+    </net>
+    <net code="15" name="D12">
+      <node ref="U19" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="19" pinfunction="I12" pintype="passive"/>
+    </net>
+    <net code="16" name="D13">
+      <node ref="U20" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="18" pinfunction="I13" pintype="passive"/>
+    </net>
+    <net code="17" name="D14">
+      <node ref="U21" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="17" pinfunction="I14" pintype="passive"/>
+    </net>
+    <net code="18" name="D15">
+      <node ref="U22" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U24" pin="16" pinfunction="I15" pintype="passive"/>
+    </net>
+    <net code="19" name="Data">
+      <node ref="U23" pin="1" pinfunction="PA02_A0_D0" pintype="unspecified"/>
+      <node ref="U24" pin="1" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="20" name="E">
+      <node ref="U23" pin="6" pinfunction="PA9_A5_D5_SCL" pintype="unspecified"/>
+      <node ref="U24" pin="15" pinfunction="~{E}" pintype="input"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U10" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U11" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U12" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U13" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U14" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U15" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U16" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U17" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U18" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U19" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U20" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U21" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U22" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U23" pin="13" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U24" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U5" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U9" pin="4" pinfunction="GND" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(D9-Pad1)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U12" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U13" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U14" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U15" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U16" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U17" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U18" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U19" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U20" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(D21-Pad1)">
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U21" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U22" pin="1" pinfunction="K(-)" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="RTrim">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="45" name="S0">
+      <node ref="U23" pin="2" pinfunction="PA4_A1_D1" pintype="unspecified"/>
+      <node ref="U24" pin="10" pinfunction="S0" pintype="input"/>
+    </net>
+    <net code="46" name="S1">
+      <node ref="U23" pin="3" pinfunction="PA10_A2_D2" pintype="unspecified"/>
+      <node ref="U24" pin="11" pinfunction="S1" pintype="input"/>
+    </net>
+    <net code="47" name="S2">
+      <node ref="U23" pin="4" pinfunction="PA11_A3_D3" pintype="unspecified"/>
+      <node ref="U24" pin="14" pinfunction="S2" pintype="input"/>
+    </net>
+    <net code="48" name="S3">
+      <node ref="U23" pin="5" pinfunction="PA8_A4_D4_SDA" pintype="unspecified"/>
+      <node ref="U24" pin="13" pinfunction="S3" pintype="input"/>
+    </net>
+    <net code="49" name="Sensor_Back">
+      <node ref="U11" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U12" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U23" pin="11" pinfunction="PA6_A10_D10_MOSI" pintype="unspecified"/>
+    </net>
+    <net code="50" name="Sensor_Left">
+      <node ref="U23" pin="9" pinfunction="PA7_A8_D8_SCK" pintype="unspecified"/>
+      <node ref="U5" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="Sensor_Right">
+      <node ref="U17" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U18" pin="3" pinfunction="VOUT" pintype="bidirectional"/>
+      <node ref="U23" pin="10" pinfunction="PA5_A9_D9_MISO" pintype="unspecified"/>
+    </net>
+    <net code="52" name="line_RX">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U23" pin="8" pinfunction="PB09_A7_D7_RX" pintype="unspecified"/>
+    </net>
+    <net code="53" name="line_TX">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U23" pin="7" pinfunction="PB08_A6_D6_TX" pintype="unspecified"/>
+    </net>
+    <net code="54" name="unconnected-(U23-Pad15)">
+      <node ref="U23" pin="15" pinfunction="5V" pintype="input+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U23-Pad16)">
+      <node ref="U23" pin="16" pinfunction="GND" pintype="input+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U23-Pad17)">
+      <node ref="U23" pin="17" pinfunction="PA31_SWDIO" pintype="input+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U23-Pad18)">
+      <node ref="U23" pin="18" pinfunction="PA30_SWCLK" pintype="input+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U23-Pad19)">
+      <node ref="U23" pin="19" pinfunction="RESET" pintype="input+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U23-Pad20)">
+      <node ref="U23" pin="20" pinfunction="GND" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

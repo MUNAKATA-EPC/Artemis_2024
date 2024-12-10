@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/SSD1306/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "TSSP58038")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/TSSP58038")(options "")(descr ""))
+  (lib (name "Seeeduino_Xiao")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Seeeduino_Xiao")(options "")(descr ""))
+  (lib (name "OpenMV")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/OpenMV")(options "")(descr ""))
+  (lib (name "_Others")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/_Others")(options "")(descr ""))
+  (lib (name "Artemis_Logo")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Artemis_Logo")(options "")(descr ""))
+)

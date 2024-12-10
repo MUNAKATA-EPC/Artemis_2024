@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../munako-artemis.github.io"
+		},
+		{
+			"path": "../../../asahi-rcj.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "munako-artemis.github.io"
+	}
+}

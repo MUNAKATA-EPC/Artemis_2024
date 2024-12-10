@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "twelite_send_seeedxiao",
+			"path": "../../Project_WorldChampionShip/Software/twelite_send_seeedxiao"
+		},
+		{
+			"name": "twelite_read_seeedxiao",
+			"path": "../../Project_WorldChampionShip/Software/twelite_read_seeedxiao"
+		},
+		{
+			"name": "bno055_seeedxiao",
+			"path": "../../Project_WorldChampionShip/Software/bno055_seeedxiao"
+		},
+		{
+			"name": "linesensors_seeedxiao",
+			"path": "../../Project_OHKA/Software/linesensors_seeedxiao"
+		},
+		{
+			"name": "ballsensors_seeedxiao",
+			"path": "../../Project_OHKA/Software/ballsensors_seeedxiao"
+		},
+		{
+			"name": "main_world_teensy40",
+			"path": "../../Project_OHKA/Software/main_world_teensy40"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ranges": "cpp",
+			"cmath": "cpp",
+			"d18_main.h": "c"
+		}
+	}
+}

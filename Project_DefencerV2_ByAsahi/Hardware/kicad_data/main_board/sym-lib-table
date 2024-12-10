@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Teensy/teensy.lib")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "L3GD20H_Module_KiCad6.0")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/L3GD20H_Module/L3GD20H_Module_KiCad6.0.kicad_sym")(options "")(descr ""))
+)

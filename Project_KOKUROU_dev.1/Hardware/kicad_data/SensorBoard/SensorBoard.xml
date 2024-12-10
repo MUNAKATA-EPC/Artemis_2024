@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/Hardware/kicad_data/SensorBoard/SensorBoard.kicad_sch</source>
+    <date>Thursday, January 11, 2024 at 05:52:27 PM</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SensorBoard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Brd1">
+      <value>SSD1306</value>
+      <footprint>SSD1306:128x64OLED</footprint>
+      <libsource lib="SSD1306-128x64_OLED" part="SSD1306" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee817a54-0d64-4436-82ab-5a8dea4734ca</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba3d03df-f3ec-4599-bc79-2d1b36fa513a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71365ee4-ad01-4bf5-aeaa-a4d148b07bb7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cc193c8-9879-4917-a83f-3bcfbbfd965c</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b222bb2-3325-45bd-bea6-8f32dbff9294</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f12a14d-434f-4f16-afd5-f205a590bed1</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb0f5530-a1c4-436a-90ca-9bd5bccaa50b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6aabb669-5b93-46de-a749-b6714230441e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>309bd0d2-1b59-4b8d-a9d5-c6e51db04a70</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a162b344-1ed1-46d4-973f-1b6fc68e213d</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6352f784-0a60-4689-93a0-fd1ccc496787</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4443a020-81a8-47f1-94f6-8afcec130ab0</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7166f4b1-24a7-443b-955a-596220d25383</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9e69c5b-1ebb-4eaa-90ba-76821a8ba3a2</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27277ce3-7613-40b3-93fa-7c7d921e922d</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cf0970b-25bf-44ba-bef8-9a9474463366</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16a6c2d0-68b0-44be-af7f-d57857b41a42</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>C</value>
+      <footprint>Capacitor_SMD:CP_Elec_5x5.4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d25b1e68-bb9a-444e-9349-56e86c6f25f4</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b1876fa-3f88-47ce-8fe3-be1199b76e3d</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C</value>
+      <footprint>Capacitor_SMD:CP_Elec_5x5.4</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>951b138f-bba1-470a-9248-413e627f16df</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e67b4b3b-cdba-400f-9eff-1d23b4db0425</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3647b783-1164-4bab-816c-bd33d237a08c</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55d1643d-2ff0-4870-a36d-9cc8c7bc3389</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b0066b1-7909-4b83-871b-84bdffd935d8</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>416ed0fd-41e5-4ced-92ae-e1105c218a44</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a054a059-8273-4659-acff-2ade044ab6ee</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cefb3aae-7710-44e0-a95f-bf0e34f8cf6a</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e86629ba-82c6-45f0-a95c-525466c7cc74</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9847b313-db0b-4109-8027-8c6305ebd973</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a889a25c-6ea7-4331-8b87-4c18d6681c68</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87487ec3-4739-4d86-a024-1991073e8ae8</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cc6eac6-1cf5-40fb-8feb-8291a71c07ea</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dd926d9-3a94-4dda-926c-420683d0af65</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c95b2891-b635-4500-b095-b912564bbd98</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bb730c2-d144-4bc7-9800-3431cfa4d06b</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2393872-3344-42a8-8604-53fe76ef833b</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3749327-90d9-4856-852d-e4fc9f8e7478</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77d959d9-71f7-4d3e-8fc8-7e729ffc2530</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3baaad8-6308-4f56-b4bf-8fbbdca5b41c</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b411a23-66e8-4924-8dfd-72b41ca5ca03</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54151868-8f62-474c-b5af-8ccf86e6ca9e</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9150c916-e913-4fe7-ac22-3175de043038</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f7ea4ad-eb05-4945-b63d-c76fcd790712</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d007c65-afc0-4fc5-8b7a-163d5441c2b9</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24037d85-1e60-4cd8-9fd7-9c4cabbe6421</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e84c67-6819-44bf-911f-ca8d1c987329</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db592cf6-613c-4714-b5ae-2fb257ce10ea</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bdca3f1-b7ad-4c10-9e07-fcb46d82488d</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef51c7c0-ade6-4c3c-9e18-698cc98a6d26</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a32aafe-c32b-4434-8a48-7d9541a9ceb3</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24a1da03-7643-4254-a426-1bc81a98c6ee</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>WS2812B</value>
+      <footprint>WS2812B:LED_WS2812B-Mini_3.5x3.5mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07ea53a5-c673-495b-acdd-2b8f12411329</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x10_Socket</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x10_Socket" description="Generic connector, single row, 01x10, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x10, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8aa0e396-a488-443f-b089-13968f174256</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a201824c-7c6a-4e16-9e56-d0224e0eb4ac</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e82f8ee4-f5db-411d-9a15-695f47124e76</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a6322e4-6130-4ebd-bec1-8526aaab1d72</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ce6c6be-b759-48a1-b68b-bb60b4d614ba</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5b5d97a-7564-4b1c-981b-026efe05579e</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e759214f-a791-47b3-97d1-f799bcc31248</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f1c1ef6-198f-4cd4-ab8b-7f99332fcdaa</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5df7cd6-1c9e-4e43-b284-5e980275bc9a</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>344384d7-fdb4-4085-ba30-d9da895b49a0</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d42ae1cd-b166-412d-a727-40da4365cf03</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64e94c7e-12b5-4e61-936f-9cca15b99c3e</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fecaf9b4-9b09-4efa-b838-ec78ae8f6054</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcb68806-1096-411d-b565-69d24f7dd886</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba528f67-8796-4467-91e6-e487d747672f</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61615870-c948-4bbc-bc69-ee7f3e92b65b</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>R_Small</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbb982ff-f950-4fc4-825d-03dec8fac935</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c70a72e-df8f-4dbc-82f2-0282307003e6</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41d7a705-dacd-4282-92f5-510f8e82dbe9</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>CD74HC4067SM</value>
+      <footprint>Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</datasheet>
+      <libsource lib="74xx" part="CD74HC4067SM" description="High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24"/>
+      <property name="ki_keywords" value="multiplexer demultiplexer mux demux"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45a28d1e-e4d3-45e7-996d-7aa5ab78e23e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9791f754-cc23-407d-9574-6644bc7aa03f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6486a1a-c1d8-4097-bf51-bcdeb1552e90</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c60f5a76-56a0-48e6-ae4e-2fc46b0c7108</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66d49d9c-ba87-4a6b-b8b8-d2e5303879e8</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45cd2e52-8c1e-4b28-b1a6-82850618f48e</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42f0fb3c-1dcf-4634-a7b1-81c4f7d43d87</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fdafea6-761e-46c7-b37b-758f5485c75c</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95013b96-bf8b-4657-b86f-64c1724416e2</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a0acdf4-6720-4e7b-9c45-19c051382916</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3b20902-2736-4cd1-8674-ec26421af471</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>279ffcf2-57c0-4050-9305-ecd6d83f107a</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef664beb-d4f0-4296-8b31-3b396dc0bf71</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e418f0f-e2b7-4380-99d2-5ee345a87222</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41277070-8e05-4c5b-bd71-dcd37b7bff56</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c0a20b4-59df-4bf6-b855-b04d36d019a9</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>TSSP58038</value>
+      <footprint>TSSP58038:TSSP58038</footprint>
+      <libsource lib="TSSP58038" part="TSSP58038" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>458280f7-e21c-427d-876d-8c66dc00b3bc</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>SeeeduinoXIAO</value>
+      <footprint>Seeeduino_Xiao:seeeduinoXIAO</footprint>
+      <libsource lib="Seeeduino XIAO" part="SeeeduinoXIAO" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b9d26a0-3eed-4c12-9c9b-d983ce5eb3a3</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>open_mv</value>
+      <footprint>OpenMV:OpenMV</footprint>
+      <libsource lib="open_mv" part="open_mv" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75a74a4d-359a-48d0-b683-3a439d0563d5</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>L7805</value>
+      <footprint>Seeeduino_Xiao:3端子レギュレータ</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SensorBoard.kicad_sch"/>
+      <property name="ki_description" value="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="ki_keywords" value="Voltage Regulator 1.5A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51c717fa-7fc2-410d-8afb-13bd24edce39</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="CD74HC4067SM">
+      <description>High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x8.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD74HC4067SM</field>
+        <field name="Footprint">Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="I7" type="passive"/>
+        <pin num="3" name="I6" type="passive"/>
+        <pin num="4" name="I5" type="passive"/>
+        <pin num="5" name="I4" type="passive"/>
+        <pin num="6" name="I3" type="passive"/>
+        <pin num="7" name="I2" type="passive"/>
+        <pin num="8" name="I1" type="passive"/>
+        <pin num="9" name="I0" type="passive"/>
+        <pin num="10" name="S0" type="input"/>
+        <pin num="11" name="S1" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="S3" type="input"/>
+        <pin num="14" name="S2" type="input"/>
+        <pin num="15" name="~{E}" type="input"/>
+        <pin num="16" name="I15" type="passive"/>
+        <pin num="17" name="I14" type="passive"/>
+        <pin num="18" name="I13" type="passive"/>
+        <pin num="19" name="I12" type="passive"/>
+        <pin num="20" name="I11" type="passive"/>
+        <pin num="21" name="I10" type="passive"/>
+        <pin num="22" name="I9" type="passive"/>
+        <pin num="23" name="I8" type="passive"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x10_Socket">
+      <description>Generic connector, single row, 01x10, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="SSD1306-128x64_OLED" part="SSD1306">
+      <footprints>
+        <fp>SSD1306-128x64_OLED:SSD1306</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Brd</field>
+        <field name="Value">SSD1306</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VCC" type="input"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Seeeduino XIAO" part="SeeeduinoXIAO">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SeeeduinoXIAO</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PA02_A0_D0" type="unspecified"/>
+        <pin num="2" name="PA4_A1_D1" type="unspecified"/>
+        <pin num="3" name="PA10_A2_D2" type="unspecified"/>
+        <pin num="4" name="PA11_A3_D3" type="unspecified"/>
+        <pin num="5" name="PA8_A4_D4_SDA" type="unspecified"/>
+        <pin num="6" name="PA9_A5_D5_SCL" type="unspecified"/>
+        <pin num="7" name="PB08_A6_D6_TX" type="unspecified"/>
+        <pin num="8" name="PB09_A7_D7_RX" type="unspecified"/>
+        <pin num="9" name="PA7_A8_D8_SCK" type="unspecified"/>
+        <pin num="10" name="PA5_A9_D9_MISO" type="unspecified"/>
+        <pin num="11" name="PA6_A10_D10_MOSI" type="unspecified"/>
+        <pin num="12" name="3V3" type="unspecified"/>
+        <pin num="13" name="GND" type="unspecified"/>
+        <pin num="14" name="5V" type="unspecified"/>
+        <pin num="15" name="5V" type="input"/>
+        <pin num="16" name="GND" type="input"/>
+        <pin num="17" name="PA31_SWDIO" type="input"/>
+        <pin num="18" name="PA30_SWCLK" type="input"/>
+        <pin num="19" name="RESET" type="input"/>
+        <pin num="20" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TSSP58038" part="TSSP58038">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TSSP58038</field>
+      </fields>
+      <pins>
+        <pin num="0" name="Vin" type="power_in"/>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="OUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="open_mv" part="open_mv">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">open_mv</field>
+      </fields>
+      <pins>
+        <pin num="1" name="gnd" type="bidirectional"/>
+        <pin num="2" name="vin" type="power_out"/>
+        <pin num="3" name="seru01" type="bidirectional"/>
+        <pin num="4" name="seru02" type="bidirectional"/>
+        <pin num="5" name="seru03" type="bidirectional"/>
+        <pin num="6" name="syn" type="bidirectional"/>
+        <pin num="7" name="boot" type="bidirectional"/>
+        <pin num="8" name="rst" type="bidirectional"/>
+        <pin num="9" name="mosi" type="bidirectional"/>
+        <pin num="10" name="sclk" type="bidirectional"/>
+        <pin num="11" name="miso" type="bidirectional"/>
+        <pin num="12" name="ss" type="bidirectional"/>
+        <pin num="13" name="txo/scl" type="bidirectional"/>
+        <pin num="14" name="rxd/sca" type="bidirectional"/>
+        <pin num="15" name="adc/dac" type="bidirectional"/>
+        <pin num="16" name="3.3v" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//LED.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="SSD1306-128x64_OLED">
+      <uri>/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/SSD1306/SSD1306-128x64_OLED.lib</uri>
+    </library>
+    <library logical="Seeeduino XIAO">
+      <uri>/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/Seeeduino XIAO KICAD/Seeeduino XIAO.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="TSSP58038">
+      <uri>/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/TSSP58038/TSSP58038.kicad_sym</uri>
+    </library>
+    <library logical="open_mv">
+      <uri>/Users/kyle.matsuda/GitHub/Artemis_2024/Project_KOKUROU_dev.1/KiCad/KiCad_Library/OpenMV/open_mv.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="Brd1" pin="2" pinfunction="VCC" pintype="input"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U10" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U11" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U12" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U13" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U14" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U15" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U16" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U17" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U18" pin="12" pinfunction="3V3" pintype="unspecified"/>
+      <node ref="U19" pin="16" pinfunction="3.3v" pintype="power_out"/>
+      <node ref="U2" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U3" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U4" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U5" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U6" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U7" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U8" pin="0" pinfunction="Vin" pintype="power_in"/>
+      <node ref="U9" pin="0" pinfunction="Vin" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U18" pin="14" pinfunction="5V" pintype="unspecified"/>
+      <node ref="U19" pin="2" pinfunction="vin" pintype="power_out"/>
+    </net>
+    <net code="3" name="+5VA">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D14" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D15" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D16" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D17" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D18" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D19" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D20" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D21" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D22" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D23" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D24" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D25" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D26" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D27" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D28" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D29" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D30" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D31" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D32" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U20" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="4" name="+12V">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U20" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="5" name="BTN_EX">
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U18" pin="9" pinfunction="PA7_A8_D8_SCK" pintype="unspecified"/>
+    </net>
+    <net code="6" name="CAM_RX">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U19" pin="13" pinfunction="txo/scl" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="CAM_TX">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U19" pin="14" pinfunction="rxd/sca" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Data">
+      <node ref="U1" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="U18" pin="1" pinfunction="PA02_A0_D0" pintype="unspecified"/>
+    </net>
+    <net code="9" name="E">
+      <node ref="U1" pin="15" pinfunction="~{E}" pintype="input"/>
+      <node ref="U18" pin="6" pinfunction="PA9_A5_D5_SCL" pintype="unspecified"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="Brd1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D13" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D14" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D15" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D16" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D17" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D18" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D19" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D20" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D21" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D22" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D23" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D24" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D25" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D26" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D27" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D28" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D29" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D30" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D31" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D32" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D7" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D8" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D9" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U11" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U12" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U13" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U14" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U15" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U16" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U17" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U18" pin="13" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U19" pin="1" pinfunction="gnd" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U20" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U7" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U8" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U9" pin="1" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="11" name="IR1">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="I0" pintype="passive"/>
+    </net>
+    <net code="12" name="IR2">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="I1" pintype="passive"/>
+    </net>
+    <net code="13" name="IR3">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="I2" pintype="passive"/>
+    </net>
+    <net code="14" name="IR4">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="I3" pintype="passive"/>
+    </net>
+    <net code="15" name="IR5">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="I4" pintype="passive"/>
+    </net>
+    <net code="16" name="IR6">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="I5" pintype="passive"/>
+    </net>
+    <net code="17" name="IR7">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="I6" pintype="passive"/>
+    </net>
+    <net code="18" name="IR8">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="I7" pintype="passive"/>
+    </net>
+    <net code="19" name="IR9">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="I8" pintype="passive"/>
+    </net>
+    <net code="20" name="IR10">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="I9" pintype="passive"/>
+    </net>
+    <net code="21" name="IR11">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="I10" pintype="passive"/>
+    </net>
+    <net code="22" name="IR12">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="I11" pintype="passive"/>
+    </net>
+    <net code="23" name="IR13">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="I12" pintype="passive"/>
+    </net>
+    <net code="24" name="IR14">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="I13" pintype="passive"/>
+    </net>
+    <net code="25" name="IR15">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="I14" pintype="passive"/>
+    </net>
+    <net code="26" name="IR16">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="I15" pintype="passive"/>
+    </net>
+    <net code="27" name="IR_RX">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U18" pin="7" pinfunction="PB08_A6_D6_TX" pintype="unspecified"/>
+    </net>
+    <net code="28" name="IR_TX">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U18" pin="8" pinfunction="PB09_A7_D7_RX" pintype="unspecified"/>
+    </net>
+    <net code="29" name="LCD_SCL">
+      <node ref="Brd1" pin="3" pinfunction="SCL" pintype="input"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="30" name="LCD_SDA">
+      <node ref="Brd1" pin="4" pinfunction="SDA" pintype="input"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="31" name="NeoPixel_PWM">
+      <node ref="D1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D1-DOUT)">
+      <node ref="D1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D2" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(D2-DOUT)">
+      <node ref="D2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(D3-DOUT)">
+      <node ref="D3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(D4-DOUT)">
+      <node ref="D4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(D5-DOUT)">
+      <node ref="D5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(D6-DOUT)">
+      <node ref="D6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(D7-DOUT)">
+      <node ref="D7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(D8-DOUT)">
+      <node ref="D8" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(D10-DIN)">
+      <node ref="D10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="D9" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="41" name="Net-(D10-DOUT)">
+      <node ref="D10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D11" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(D11-DOUT)">
+      <node ref="D11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(D12-DOUT)">
+      <node ref="D12" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D13" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(D13-DOUT)">
+      <node ref="D13" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D14" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(D14-DOUT)">
+      <node ref="D14" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D15" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(D15-DOUT)">
+      <node ref="D15" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D16" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(D16-DOUT)">
+      <node ref="D16" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D17" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(D17-DOUT)">
+      <node ref="D17" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D18" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(D18-DOUT)">
+      <node ref="D18" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D19" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(D19-DOUT)">
+      <node ref="D19" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D20" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(D20-DOUT)">
+      <node ref="D20" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D21" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(D21-DOUT)">
+      <node ref="D21" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D22" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(D22-DOUT)">
+      <node ref="D22" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D23" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(D23-DOUT)">
+      <node ref="D23" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D24" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(D24-DOUT)">
+      <node ref="D24" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D25" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(D25-DOUT)">
+      <node ref="D25" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D26" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(D26-DOUT)">
+      <node ref="D26" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D27" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(D27-DOUT)">
+      <node ref="D27" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D28" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(D28-DOUT)">
+      <node ref="D28" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D29" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(D29-DOUT)">
+      <node ref="D29" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D30" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(D30-DOUT)">
+      <node ref="D30" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D31" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(D31-DOUT)">
+      <node ref="D31" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="D32" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(U2-OUT)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="64" name="Net-(U3-OUT)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="65" name="Net-(U4-OUT)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="66" name="Net-(U5-OUT)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="67" name="Net-(U6-OUT)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="68" name="Net-(U7-OUT)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="69" name="Net-(U8-OUT)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="70" name="Net-(U9-OUT)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="71" name="Net-(U10-OUT)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="72" name="Net-(U11-OUT)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="73" name="Net-(U12-OUT)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="74" name="Net-(U13-OUT)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U13" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="75" name="Net-(U14-OUT)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U14" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="76" name="Net-(U15-OUT)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U15" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="77" name="Net-(U16-OUT)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U16" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="78" name="Net-(U17-OUT)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U17" pin="2" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="79" name="RST">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U19" pin="8" pinfunction="rst" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="S0">
+      <node ref="U1" pin="10" pinfunction="S0" pintype="input"/>
+      <node ref="U18" pin="2" pinfunction="PA4_A1_D1" pintype="unspecified"/>
+    </net>
+    <net code="81" name="S1">
+      <node ref="U1" pin="11" pinfunction="S1" pintype="input"/>
+      <node ref="U18" pin="3" pinfunction="PA10_A2_D2" pintype="unspecified"/>
+    </net>
+    <net code="82" name="S2">
+      <node ref="U1" pin="14" pinfunction="S2" pintype="input"/>
+      <node ref="U18" pin="4" pinfunction="PA11_A3_D3" pintype="unspecified"/>
+    </net>
+    <net code="83" name="S3">
+      <node ref="U1" pin="13" pinfunction="S3" pintype="input"/>
+      <node ref="U18" pin="5" pinfunction="PA8_A4_D4_SDA" pintype="unspecified"/>
+    </net>
+    <net code="84" name="unconnected-(D32-DOUT-Pad2)">
+      <node ref="D32" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U18-5V-Pad15)">
+      <node ref="U18" pin="15" pinfunction="5V" pintype="input+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U18-GND-Pad16)">
+      <node ref="U18" pin="16" pinfunction="GND" pintype="input+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U18-GND-Pad20)">
+      <node ref="U18" pin="20" pinfunction="GND" pintype="input+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U18-PA5_A9_D9_MISO-Pad10)">
+      <node ref="U18" pin="10" pinfunction="PA5_A9_D9_MISO" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U18-PA6_A10_D10_MOSI-Pad11)">
+      <node ref="U18" pin="11" pinfunction="PA6_A10_D10_MOSI" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U18-PA30_SWCLK-Pad18)">
+      <node ref="U18" pin="18" pinfunction="PA30_SWCLK" pintype="input+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U18-PA31_SWDIO-Pad17)">
+      <node ref="U18" pin="17" pinfunction="PA31_SWDIO" pintype="input+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U18-RESET-Pad19)">
+      <node ref="U18" pin="19" pinfunction="RESET" pintype="input+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U19-adc{slash}dac-Pad15)">
+      <node ref="U19" pin="15" pinfunction="adc/dac" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U19-boot-Pad7)">
+      <node ref="U19" pin="7" pinfunction="boot" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U19-miso-Pad11)">
+      <node ref="U19" pin="11" pinfunction="miso" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U19-mosi-Pad9)">
+      <node ref="U19" pin="9" pinfunction="mosi" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U19-sclk-Pad10)">
+      <node ref="U19" pin="10" pinfunction="sclk" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U19-seru01-Pad3)">
+      <node ref="U19" pin="3" pinfunction="seru01" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U19-seru02-Pad4)">
+      <node ref="U19" pin="4" pinfunction="seru02" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U19-seru03-Pad5)">
+      <node ref="U19" pin="5" pinfunction="seru03" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U19-ss-Pad12)">
+      <node ref="U19" pin="12" pinfunction="ss" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U19-syn-Pad6)">
+      <node ref="U19" pin="6" pinfunction="syn" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

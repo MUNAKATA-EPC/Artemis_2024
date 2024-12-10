@@ -1,0 +1,5 @@
+Ref,Val,Package,MidX,MidY,Rotation,Side
+"J1","Conn_01x08_Socket","PinHeader_1x08_P1.27mm_Vertical",164.465000,-86.360000,30.000000,bottom
+"J2","Conn_01x08_Socket","PinHeader_1x08_P1.27mm_Vertical",140.335000,-86.484557,-30.000000,bottom
+"J3","Conn_01x08_Socket","PinHeader_1x08_P1.27mm_Vertical",147.950000,-102.514400,-90.000000,bottom
+"U1","CD74HC4067SM","SSOP-24_5.3x8.2mm_P0.65mm",151.892000,-90.170000,180.000000,bottom

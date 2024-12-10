@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "KiCad_Library")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library")(options "")(descr ""))
+  (lib (name "_Others")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/_Others")(options "")(descr ""))
+  (lib (name "Fuse_Socket")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Fuse_Socket")(options "")(descr ""))
+  (lib (name "TA48033S")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/TA48033S")(options "")(descr ""))
+  (lib (name "Voltage_Counter")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Voltage_Counter")(options "")(descr ""))
+)

@@ -1,0 +1,21 @@
+[Teensy 4.0]
+Serial
+・motor driver(DSR1202):tx1
+・OpenMV:tx2
+・gyro-sensor(Seeeduino Xiao)------L3GD20H:tx5
+ -・gyro-reset-switch
+・line-sensor(Seeeduino Xiao):tx7
+
+i2c
+・OLED display
+
+analog
+・TSSP58038x8(direct-in)
+
+digital
+・control-switch(for oled display)
+ - left/right/run
+
+[other]
+・r-trim(for line-light, touch-sensor)
+・touch-sensor(led, sensor)

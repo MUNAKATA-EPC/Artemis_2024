@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "comm")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/comm")(options "")(descr ""))
+)

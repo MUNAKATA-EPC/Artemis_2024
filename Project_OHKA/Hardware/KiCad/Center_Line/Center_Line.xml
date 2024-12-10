@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/kyle.matsuda/GitHub/Artemis_2024/Project_OHKA/Hardware/KiCad/Center_Line/Center_Line.kicad_sch</source>
+    <date/>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Center_Line.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5cf45fcf-bfbe-4bb4-af83-286698168b92</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>303fa95d-bbc9-4b86-a13f-e0cf14941bdb</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>950c0b35-0d43-4efd-871c-4d1893756eb4</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>616f762b-b32b-4579-b674-4a02aad897f8</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a739cb0-4f55-4bff-90ec-eebf5e9369b8</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>323d8a2e-f86f-47e7-aa4c-841229056065</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1228a786-a8da-4acc-b86d-e1dc4a0922a3</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8251c613-c1fd-405e-b6d8-03db3a258cd6</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14d84ffa-2799-40bf-9b71-9fa3680df840</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e9a3ffb-6034-4ee2-9e90-49d6b68bba1d</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbc5e497-8af2-4fa9-a6b4-0d0145997150</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbace36a-e969-437f-bd4d-b0aa9f5573bc</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7582cc1b-0e66-4116-bcc7-37543c51499b</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24d864b7-8115-461f-84e3-919fb5e10795</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d7843fc-16ff-4254-b852-b2f1870d3ee7</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08610758-aa0b-4cff-9f47-64d0cc672f99</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>343c2a28-ebdd-45a8-93e5-e697176967df</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>380b8d87-82f9-411b-b2ce-b25df1fd2595</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>878b7d4f-4e96-47d6-9d3c-ea60e834328c</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d1e499b-1cfe-486c-90dd-2ace5fd297e7</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>921c99fe-14fa-4e0b-a777-80c739c029cd</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92b7fe21-0945-4e5c-acc3-ebd2e34aa588</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be1e2efa-1651-4a1f-aacd-19750ed11915</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2d173cf-db28-4d16-b4dd-b19675b504e7</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dd039c4-adc3-4d3c-812e-df2a86c6dce4</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4912ad89-d154-46cd-b586-55f39cfedf04</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4790477a-5df8-4732-bafc-e14b4ce10ed9</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18b61a14-507b-41fe-9f87-e4f2912d619f</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a29970c-d407-4cc8-8fb7-ece6e6d5fb30</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6920be0b-56ac-426b-a624-84bc9deed364</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a56d7cd9-194c-4d03-a5e9-19b18f11de2d</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98ccc104-0c30-4cee-8c5c-6b891211eaf1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04_Socket</value>
+      <libsource lib="Connector" part="Conn_01x04_Socket" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>083fcaad-f1ae-4ace-a6f0-a5a9405c0028</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04_Socket</value>
+      <libsource lib="Connector" part="Conn_01x04_Socket" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7574ab86-31ca-4b6a-8c20-85c64299e4d8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04_Socket</value>
+      <libsource lib="Connector" part="Conn_01x04_Socket" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d64f589-e75e-45dc-bdaa-45051986a4d1</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04_Socket</value>
+      <libsource lib="Connector" part="Conn_01x04_Socket" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b47d0d26-bbce-482b-bf94-b060fe9e1c7f</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b14f9e8e-6347-43db-a933-eaf37bb4813c</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74d530ad-672a-4a42-b8f3-451ec5aa55bf</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0f46a22-ff7b-49f0-aef7-57606f2e6efe</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7526cc0-8f86-4410-807f-b384c3438269</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b346fff-3289-4c06-854b-507b5caf8034</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d92e13f-d7a3-4088-b309-162b205bb9fc</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d9c1154-c40e-4b6a-bfe3-e3fd2bb28e02</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1232091e-e3dd-4179-9235-10a5b2709932</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3178687-4726-4778-83de-32042a4b689a</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e05cd073-ab2c-4efe-8d88-d88cd367658b</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2cac34ee-91d4-4950-98f2-01c2dc061546</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f4da85f-6258-41bd-9c19-a56e35b9c515</tstamps>
+    </comp>
+    <comp ref="Q13">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eda27a48-8c05-4139-b103-5b8112fb1021</tstamps>
+    </comp>
+    <comp ref="Q14">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>211e6a86-4392-4e11-a67c-b19a4e7eb1e1</tstamps>
+    </comp>
+    <comp ref="Q15">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f51ce18b-5ea9-4897-b89d-32c34ab181eb</tstamps>
+    </comp>
+    <comp ref="Q16">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>995aafb9-2830-4083-aa95-eb34af56d13c</tstamps>
+    </comp>
+    <comp ref="Q17">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6205eb4e-7c57-4e78-861c-7c01adc877b4</tstamps>
+    </comp>
+    <comp ref="Q18">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64291915-bb89-4437-a318-2b21bd68a66c</tstamps>
+    </comp>
+    <comp ref="Q19">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a244e06-6161-4b1f-b8d4-7291208ecc47</tstamps>
+    </comp>
+    <comp ref="Q20">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ad0b253-497a-44c6-87f2-2322e5f75ea2</tstamps>
+    </comp>
+    <comp ref="Q21">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40622abf-3dbe-4b50-be9f-488346bbc874</tstamps>
+    </comp>
+    <comp ref="Q22">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64298ced-9996-417f-829a-0105fd44ee69</tstamps>
+    </comp>
+    <comp ref="Q23">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>387c8c16-a873-4d3f-a3a0-e7814bf015f7</tstamps>
+    </comp>
+    <comp ref="Q24">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a67e816a-ea0d-4d68-a995-41ad94d32d63</tstamps>
+    </comp>
+    <comp ref="Q25">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc545698-da3a-4fd6-8f6a-d4bced946cb0</tstamps>
+    </comp>
+    <comp ref="Q26">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14f8d246-bc8c-4e86-aa09-d1adbdbd7af1</tstamps>
+    </comp>
+    <comp ref="Q27">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2798357c-184a-449d-8eb0-2b58a999a1b2</tstamps>
+    </comp>
+    <comp ref="Q28">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bad6bd0f-e1d7-48bb-8753-0c9e70553b3b</tstamps>
+    </comp>
+    <comp ref="Q29">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a49d7cad-649e-4264-a62d-3c682565c771</tstamps>
+    </comp>
+    <comp ref="Q30">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ac0a2fc-deae-48f6-b5d9-7c864143ac90</tstamps>
+    </comp>
+    <comp ref="Q31">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84592115-7726-4f38-a26f-b7e347f09e3d</tstamps>
+    </comp>
+    <comp ref="Q32">
+      <value>Q_Photo_NPN</value>
+      <libsource lib="Device" part="Q_Photo_NPN" description="NPN phototransistor, collector/emitter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="NPN phototransistor, collector/emitter"/>
+      <property name="ki_keywords" value="phototransistor NPN"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e98ee9f-73e1-42f8-915d-f365a53c7532</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>597236ce-8c74-4d7b-8c6a-d24bebc8a683</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3eb2fa04-fe35-475d-890b-b44ddc32f14d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6abb8ca5-a40f-4524-820b-93d6004853d7</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68f69527-9f93-460c-8a27-7353ff2217e3</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9edf6795-b9d2-4f42-95df-510f9d12e30f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a5e77ab-e6f2-458c-9cf1-d2dee041197d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8699557-33cb-4d5e-9b2c-2b761504fdc8</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da66b2de-09d3-4947-af31-9b5165c14ed0</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ab6b601-50c1-48aa-89f5-a24fe0e891eb</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54656d62-9749-4d30-ba45-15e1024d1d9a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad040b6c-3e37-4e94-8e10-45901f6f8c8e</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02f03dc5-05c1-4a74-a1a0-602c184d8665</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dde605f4-11c9-4c68-a8e9-ac3deabf49ee</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53f2efa1-f847-40d9-9147-b8ad43d7a2d8</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b71db208-04cf-44aa-bc63-174591c052c1</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bfbaca6-03ef-44aa-b323-bc633b429562</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff75a456-5582-4dd2-b435-310519d529ea</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89f354fe-46f1-463d-aac9-5ebb8be2f470</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91adbfbe-b323-4a84-adc4-c7561eab854c</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f6e6091-2dfa-49f7-9e9e-b731cbcb9038</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0290082-75b3-4490-a02d-35a9ade47d4e</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa75d11b-1c55-4542-82e5-ec577d73991f</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0943ae04-95d2-41ad-bae8-7c3a35e30e1d</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a3f586b-f667-4d71-a604-4a8bc389bda5</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb0fe81d-74eb-4130-9e39-c9f766255463</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5a8f66e-1bbc-4c51-b73e-8d25846be691</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f815dd5-258f-44f5-963c-c2c087a2c2b5</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cd980f5-63d9-48a3-876f-852384b1e32a</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a5338f8-7878-4d5e-8aab-18fe214ed9f4</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a8d23be-906f-4f4c-8153-f16c2d72561e</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18414b0e-1460-4b0f-89dd-8762cea5fa86</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>R_Small</value>
+      <fields>
+        <field name="LCSC">C103780</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C103780"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3582bcb-50e0-4a60-ade0-addd4e9b9a43</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88d30eb7-6f9e-4c41-a225-3e0283f64a39</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>081e1667-4f88-4abf-ad04-74896861f029</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0cdbd54-bb7e-4c1e-b98e-bee6386d8391</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f64aa61-e668-4b23-8064-f6cf95bf75cb</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b97a400d-ca5b-47ac-9e9b-dca87a33223f</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6493278f-f824-4f5f-b6ef-fb91ed68c87f</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c51429c9-e45c-428a-8e4e-4e6e235ab8ea</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89ef15ec-6bab-4478-ac2b-55b73dc4d4f6</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddb643ff-7d9b-48d3-a75d-906fad4f9b8a</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ba80374-b80b-4710-9793-6ca770ae8a9f</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03b3fad1-7f52-4320-8494-f576a6939719</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>762a4165-e914-41c6-9f25-3264f2d23927</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7a66d59-a23a-445c-913f-53099c04b1d4</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a463875-f682-4580-bd62-8783accdcce1</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d31ad78-40a8-4f73-8e6f-65fc5cb1b731</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>R</value>
+      <fields>
+        <field name="LCSC">C912493</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C912493"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>916881a1-1cc7-489c-ac93-d2ab918f02ff</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c90efab-ffef-4a6e-b577-09e78cba65c7</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0549ac5-de08-4735-9d00-baeabda0d9bb</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>940ddb40-ff32-447d-98bd-02e6efd6e392</tstamps>
+    </comp>
+    <comp ref="RV4">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b4e7c9e-4e0b-4c60-8b37-5ef8aab45adb</tstamps>
+    </comp>
+    <comp ref="RV5">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e22d8077-3f0c-4831-93ce-e0f717f3c018</tstamps>
+    </comp>
+    <comp ref="RV6">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ee5c235-690d-45c2-adf3-a3fd249aa718</tstamps>
+    </comp>
+    <comp ref="RV7">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>287cf09d-0724-4ff5-b63e-9d087796b121</tstamps>
+    </comp>
+    <comp ref="RV8">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d42aced1-42a8-4e13-982d-d475c1be2a68</tstamps>
+    </comp>
+    <comp ref="RV9">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f78bdc8-77cc-4bda-9ca4-f3d55ec07be2</tstamps>
+    </comp>
+    <comp ref="RV10">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14769c49-8aa4-4235-aab0-de38558ebdf6</tstamps>
+    </comp>
+    <comp ref="RV11">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>569f2246-8558-4bc8-92b4-54a302a93fd9</tstamps>
+    </comp>
+    <comp ref="RV12">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ccdd248-c262-496a-8b90-422a7f044857</tstamps>
+    </comp>
+    <comp ref="RV13">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62fb5476-4128-4303-ac68-8650a9ee9e09</tstamps>
+    </comp>
+    <comp ref="RV14">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c84ae7d2-33ed-44b0-8deb-3dba486f125f</tstamps>
+    </comp>
+    <comp ref="RV15">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>922234da-a153-4b63-a251-1acb59fa5bab</tstamps>
+    </comp>
+    <comp ref="RV16">
+      <value>R_Potentiometer_Trim_US</value>
+      <fields>
+        <field name="LCSC">C719176</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Trim_US" description="Trim-potentiometer, US symbol"/>
+      <property name="LCSC" value="C719176"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="Trim-potentiometer, US symbol"/>
+      <property name="ki_keywords" value="resistor variable trimpot trimmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09a8ed32-e900-49c1-92eb-14f40f30abe6</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>CD74HC4067SM</value>
+      <footprint>Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</datasheet>
+      <libsource lib="74xx" part="CD74HC4067SM" description="High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <property name="ki_description" value="High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24"/>
+      <property name="ki_keywords" value="multiplexer demultiplexer mux demux"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4291d21b-8532-4c06-808c-3e5e775f6b91</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>Seeeduino_Xiao</value>
+      <libsource lib="seeeduino_xiao" part="Seeeduino_Xiao" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Center_Line.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9446eae2-eb63-4bc4-9106-5bad40aae563</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="CD74HC4067SM">
+      <description>High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SSOP-24</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x8.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD74HC4067SM</field>
+        <field name="Footprint">Package_SO:SSOP-24_5.3x8.2mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="I7" type="passive"/>
+        <pin num="3" name="I6" type="passive"/>
+        <pin num="4" name="I5" type="passive"/>
+        <pin num="5" name="I4" type="passive"/>
+        <pin num="6" name="I3" type="passive"/>
+        <pin num="7" name="I2" type="passive"/>
+        <pin num="8" name="I1" type="passive"/>
+        <pin num="9" name="I0" type="passive"/>
+        <pin num="10" name="S0" type="input"/>
+        <pin num="11" name="S1" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="S3" type="input"/>
+        <pin num="14" name="S2" type="input"/>
+        <pin num="15" name="~{E}" type="input"/>
+        <pin num="16" name="I15" type="passive"/>
+        <pin num="17" name="I14" type="passive"/>
+        <pin num="18" name="I13" type="passive"/>
+        <pin num="19" name="I12" type="passive"/>
+        <pin num="20" name="I11" type="passive"/>
+        <pin num="21" name="I10" type="passive"/>
+        <pin num="22" name="I9" type="passive"/>
+        <pin num="23" name="I8" type="passive"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Socket">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_Photo_NPN">
+      <description>NPN phototransistor, collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_Photo_NPN</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Trim_US">
+      <description>Trim-potentiometer, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="seeeduino_xiao" part="Seeeduino_Xiao">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Seeeduino_Xiao</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAC" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+        <pin num="3" name="" type="bidirectional"/>
+        <pin num="4" name="" type="bidirectional"/>
+        <pin num="5" name="SDA" type="bidirectional"/>
+        <pin num="6" name="SCL" type="bidirectional"/>
+        <pin num="7" name="TX" type="bidirectional"/>
+        <pin num="8" name="RX" type="bidirectional"/>
+        <pin num="9" name="SCK" type="bidirectional"/>
+        <pin num="10" name="MISO" type="bidirectional"/>
+        <pin num="11" name="MOSI" type="bidirectional"/>
+        <pin num="12" name="3V3" type="power_out"/>
+        <pin num="13" name="GND" type="bidirectional"/>
+        <pin num="14" name="5V" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="seeeduino_xiao">
+      <uri>/Users/kyle.matsuda/GitHub/Artemis_2024/Project_OHKA/Hardware/KiCad_Library/Seeeduino_Xiao/seeeduino_xiao.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q10" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q11" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q12" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q13" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q14" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q15" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q16" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q17" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q18" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q19" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q20" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q21" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q22" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q23" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q24" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q25" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q26" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q27" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q28" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q29" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q30" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q31" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q32" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q8" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q9" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="12" pinfunction="3V3" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="5V" pintype="power_in"/>
+    </net>
+    <net code="3" name="/1">
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="I0" pintype="passive"/>
+    </net>
+    <net code="4" name="/2">
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="I1" pintype="passive"/>
+    </net>
+    <net code="5" name="/3">
+      <node ref="Q5" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="I2" pintype="passive"/>
+    </net>
+    <net code="6" name="/4">
+      <node ref="Q7" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="I3" pintype="passive"/>
+    </net>
+    <net code="7" name="/5">
+      <node ref="Q10" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q9" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="I4" pintype="passive"/>
+    </net>
+    <net code="8" name="/6">
+      <node ref="Q11" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q12" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="I5" pintype="passive"/>
+    </net>
+    <net code="9" name="/7">
+      <node ref="Q13" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q14" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="I6" pintype="passive"/>
+    </net>
+    <net code="10" name="/8">
+      <node ref="Q15" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q16" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="I7" pintype="passive"/>
+    </net>
+    <net code="11" name="/9">
+      <node ref="Q17" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q18" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="I8" pintype="passive"/>
+    </net>
+    <net code="12" name="/10">
+      <node ref="Q19" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q20" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="I9" pintype="passive"/>
+    </net>
+    <net code="13" name="/11">
+      <node ref="Q21" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q22" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="I10" pintype="passive"/>
+    </net>
+    <net code="14" name="/12">
+      <node ref="Q23" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q24" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="I11" pintype="passive"/>
+    </net>
+    <net code="15" name="/13">
+      <node ref="Q25" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q26" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="I12" pintype="passive"/>
+    </net>
+    <net code="16" name="/14">
+      <node ref="Q27" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q28" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="I13" pintype="passive"/>
+    </net>
+    <net code="17" name="/15">
+      <node ref="Q29" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q30" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="I14" pintype="passive"/>
+    </net>
+    <net code="18" name="/16">
+      <node ref="Q31" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q32" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="I15" pintype="passive"/>
+    </net>
+    <net code="19" name="/BACK">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="MISO" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/E">
+      <node ref="U1" pin="15" pinfunction="~{E}" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="SCL" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/LEFT">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="MOSI" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/LINE_RX">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="TX" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/LINE_TX">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="RX" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/RIGHT">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="SCK" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/S0">
+      <node ref="U1" pin="10" pinfunction="S0" pintype="input"/>
+      <node ref="U2" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/S1">
+      <node ref="U1" pin="11" pinfunction="S1" pintype="input"/>
+      <node ref="U2" pin="3" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/S2">
+      <node ref="U1" pin="14" pinfunction="S2" pintype="input"/>
+      <node ref="U2" pin="4" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/S3">
+      <node ref="U1" pin="13" pinfunction="S3" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/com">
+      <node ref="U1" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="DAC" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="GND">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="13" pinfunction="GND" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D6-K)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D7-K)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D8-K)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D9-K)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D11-K)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D13-K)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D14-K)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D15-K)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D16-K)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D17-K)">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D18-K)">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D19-K)">
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D20-K)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D21-K)">
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D22-K)">
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D23-K)">
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D24-K)">
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D25-K)">
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D26-K)">
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D27-K)">
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D28-K)">
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D29-K)">
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D30-K)">
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D31-K)">
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D32-K)">
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(R34-Pad1)">
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(R35-Pad1)">
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(R36-Pad1)">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="RV4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(R37-Pad1)">
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="RV5" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="RV6" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(R39-Pad1)">
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="RV7" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(R40-Pad1)">
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="RV8" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="RV9" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(R42-Pad1)">
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="RV10" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(R43-Pad1)">
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="RV11" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(R44-Pad1)">
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="RV12" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(R45-Pad1)">
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="RV13" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(R46-Pad1)">
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="RV14" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(R47-Pad1)">
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="RV15" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(R48-Pad1)">
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="RV16" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="79" name="unconnected-(RV1-Pad1)">
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(RV2-Pad1)">
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(RV3-Pad1)">
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(RV4-Pad1)">
+      <node ref="RV4" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(RV5-Pad1)">
+      <node ref="RV5" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(RV6-Pad1)">
+      <node ref="RV6" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(RV7-Pad1)">
+      <node ref="RV7" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(RV8-Pad1)">
+      <node ref="RV8" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(RV9-Pad1)">
+      <node ref="RV9" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(RV10-Pad1)">
+      <node ref="RV10" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(RV11-Pad1)">
+      <node ref="RV11" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(RV12-Pad1)">
+      <node ref="RV12" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(RV13-Pad1)">
+      <node ref="RV13" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(RV14-Pad1)">
+      <node ref="RV14" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(RV15-Pad1)">
+      <node ref="RV15" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(RV16-Pad1)">
+      <node ref="RV16" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

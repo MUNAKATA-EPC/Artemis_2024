@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "seeeduino_xiao")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_OHKA/Hardware/KiCad_Library/Seeeduino_Xiao/seeeduino_xiao.kicad_sym")(options "")(descr ""))
+  (lib (name "L3GD20H_Module")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_OHKA/Hardware/KiCad_Library/L3GD20H_Module/L3GD20H_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "Soccer_Communication")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_OHKA/Hardware/KiCad_Library/Soccer_Communication.kicad_sym")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/Project_OHKA/Hardware/KiCad_Library/Teensy/teensy.lib")(options "")(descr ""))
+  (lib (name "BNO055 new")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/CommonData/KiCad_Library/BNO055/BNO055 new.kicad_sym")(options "")(descr ""))
+  (lib (name "TWELITE UART")(type "KiCad")(uri "/Users/kyle.matsuda/GitHub/Artemis_2024/CommonData/KiCad_Library/TWELITE UART/TWELITE UART.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+"C_Small","C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22","Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm",""
+"C_Small","C23","Capacitor_THT:CP_Radial_D5.0mm_P2.50mm",""
+"LED","D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22","LED_THT:LED_D3.0mm",""
+"Conn_01x05_Female","J1","Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical",""
+"Line_sennsor","U1,U2,U3,U4,U5,U6,U7,U8,U9,U10,U11,U12,U13,U14,U15,U16,U17,U18,U19,U20,U21,U22","Line_Sensor:Line_Sensor_SMD",""
+"SeeeduinoXIAO","U23","Seeeduino_Xiao:seeeduinoXIAO",""
+"CD74HC4067SM","U24","Package_SO:SSOP-24_5.3x8.2mm_P0.65mm","C98457"

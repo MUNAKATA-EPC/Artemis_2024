@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "L3GD20H")(type "KiCad")(uri "${KIPRJMOD}/L3GD20H.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "teensy")(type "Legacy")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "seeeduino_xiao_RP2040")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib/seeeduino_xiao_RP2040.kicad_sym")(options "")(descr ""))
+)

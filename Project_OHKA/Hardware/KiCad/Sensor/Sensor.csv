@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"SSD1306","Brd1","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"C_Small","C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16","Capacitor_SMD:C_0402_1005Metric",""
+"C","C17,C18,C19","Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm",""
+"Conn_01x10_Socket","J1","Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical",""
+"R","R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16","Resistor_SMD:R_0402_1005Metric","C25741"
+"R_Small","R17,R18","",""
+"R","R19,R20,R21","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal",""
+"SW_Push","SW1,SW2,SW3,SW4","Button_Switch_THT:SW_PUSH_6mm_H4.3mm",""
+"TSSP58038","U1,U2,U3,U4,U5,U6,U7,U8,U9,U10,U11,U12,U13,U14,U15,U16","OptoDevice:Vishay_MINICAST-3Pin",""
+"CD74HC4067SM","U17","Package_SO:SSOP-24_5.3x8.2mm_P0.65mm",""
+"Seeeduino_Xiao","U18","Seeeduino_Xiao:seeeduinoXIAO",""
+"open_mv","U19","Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical",""

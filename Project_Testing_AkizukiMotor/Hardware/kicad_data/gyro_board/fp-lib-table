@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "KiCad_Library")(type "KiCad")(uri "${KIPRJMOD}/../../../../CommonData/KiCad_Library")(options "")(descr ""))
+  (lib (name "L3GD20H_v6")(type "KiCad")(uri "${KIPRJMOD}/L3GD20H_v6.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,70 @@
+{
+	"folders": [
+		{
+			"name": "main_teensy40",
+			"path": "../../Project_KOKUROU_dev.1/Software/main_teensy40"
+		},
+		{
+			"name": "ballsensor_seeedxiao",
+			"path": "../../Project_KOKUROU_dev.1/Software/ballsensor_seeedxiao"
+		},
+		{
+			"name": "motor_driver_seeedxiao",
+			"path": "../../Project_KOKUROU_dev.1/Software/motor_driver_seeedxiao"
+		},
+		{
+			"name": "line_seeedxiao",
+			"path": "../../Project_KOKUROU_dev.1/Software/line_seeedxiao"
+		},
+		{
+			"path": "../../Project_KOKUROU_dev.1/Software/gyro_m5stickc"
+		},
+		{
+			"name": "dribbler_test_seeedxiao",
+			"path": "../dribbler_test_seeedxiao"
+		},
+		{
+			"path": "../../Project_KOKUROU_dev.1/Software/l3gd20h_seeedxiao"
+		},
+		{
+			"name": "ds4-raspPico",
+			"path": "../../../../PlatformIO/ds4-raspPico"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "main_teensy40",
+		"files.associations": {
+			"*.tcc": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"cmath": "cpp",
+			"optional": "cpp",
+			"system_error": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"random": "cpp",
+			"numeric": "cpp",
+			"iterator": "cpp",
+			"executor": "cpp",
+			"io_context": "cpp",
+			"chrono": "cpp",
+			"compare": "cpp",
+			"ratio": "cpp",
+			"numbers": "cpp",
+			"fstream": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"memory": "cpp",
+			"list": "cpp"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,LED,LED_D3.0mm_Clear,93.031677,30.281239,18,bottom
+D2,LED,LED_D3.0mm_Clear,96.093341,18.3825,10.8,bottom
+D3,LED,LED_D3.0mm_Clear,97.649534,6.194488,3.6,bottom
+D4,LED,LED_D3.0mm_Clear,97.655913,-6.093089,-3.6,bottom
+D5,LED,LED_D3.0mm_Clear,96.1222,-18.284574,-10.8,bottom
+D6,LED,LED_D3.0mm_Clear,93.063073,-30.184611,-18,bottom
+Q1,Q_Photo_NPN,LED_D3.0mm_Clear,93.317656,37.00171,-158.4,bottom
+Q2,Q_Photo_NPN,LED_D3.0mm_Clear,97.219362,25.014137,-165.6,bottom
+Q3,Q_Photo_NPN,LED_D3.0mm_Clear,99.587861,12.632076,-172.8,bottom
+Q4,Q_Photo_NPN,LED_D3.0mm_Clear,100.3858,0.0508,180,bottom
+Q5,Q_Photo_NPN,LED_D3.0mm_Clear,99.600595,-12.531277,172.8,bottom
+Q6,Q_Photo_NPN,LED_D3.0mm_Clear,97.244629,-24.915729,165.6,bottom
+Q7,Q_Photo_NPN,LED_D3.0mm_Clear,93.355057,-36.907245,158.4,bottom
+R1,R,R_0603_1608Metric,94.574126,27.534269,14.4,bottom
+R2,R,R_0603_1608Metric,97.27934,15.463872,7.2,bottom
+R3,R,R_0603_1608Metric,98.4504,3.1496,0,bottom
+R4,R,R_0603_1608Metric,98.4504,-3.048,0,bottom
+R5,R,R_0603_1608Metric,97.292073,-15.363072,-7.2,bottom
+R6,R,R_0603_1608Metric,94.599392,-27.435859,-14.4,bottom
+R7,R,R_0603_1608Metric,95.1484,3.3528,180,bottom
+RV1,R_Potentiometer_Trim_US,Potentiometer_Bourns_TC33X_Vertical,94.9452,-0.1,-90,bottom

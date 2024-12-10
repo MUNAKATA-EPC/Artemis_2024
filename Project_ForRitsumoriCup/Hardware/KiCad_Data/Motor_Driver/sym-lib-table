@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "DRV8432DKD")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib/DRV8432DKD/DRV8432DKD.kicad_sym")(options "")(descr ""))
+  (lib (name "seeeduino_xiao")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib/seeeduino_xiao.kicad_sym")(options "")(descr ""))
+  (lib (name "seeeduino_xiao_RP2040")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib/seeeduino_xiao_RP2040.kicad_sym")(options "")(descr ""))
+)

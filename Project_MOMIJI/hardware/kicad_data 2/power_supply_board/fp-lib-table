@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Fuse_Socket")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/Fuse_Socket")(options "")(descr ""))
+  (lib (name "Voltage_Counter")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/Voltage_Counter")(options "")(descr ""))
+  (lib (name "_Others")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/_Others")(options "")(descr ""))
+  (lib (name "TA48033S")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/TA48033S")(options "")(descr ""))
+  (lib (name "OKL-T_6-W12N-C")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/OKL-T_6-W12N-C")(options "")(descr ""))
+)

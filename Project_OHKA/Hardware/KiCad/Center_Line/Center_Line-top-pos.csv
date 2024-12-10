@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J2","Conn_01x04_Socket","PinHeader_1x04_P2.54mm_Vertical",-52.578000,3.790800,0.000000,top
+"J3","Conn_01x04_Socket","PinHeader_1x04_P2.54mm_Vertical",52.628800,-3.870000,180.000000,top
+"J4","Conn_01x04_Socket","PinHeader_1x04_P2.54mm_Vertical",-3.825400,-52.597200,90.000000,top
+"U2","Seeeduino_Xiao","seeeduinoXIAO",0.000000,41.890800,0.000000,top

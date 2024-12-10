@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+"WS2812B","D1,D2,D3","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"," C2761795"
+"Conn_01x08_Socket","J1","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical",""
+"SW_Push","SW1,SW2,SW3","Button_Switch_THT:SW_PUSH-12mm_Wuerth-430476085716",""
+"SW_DIP_x01","SW4","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical",""

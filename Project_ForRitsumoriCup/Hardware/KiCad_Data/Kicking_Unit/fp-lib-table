@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Lib")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib")(options "")(descr ""))
+  (lib (name "XL6009")(type "KiCad")(uri "F:/Artemis_2024/Project_ForRitsumoriCup/Hardware/KiCad_Data/Lib/XL6009")(options "")(descr ""))
+)

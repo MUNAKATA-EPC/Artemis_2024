@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "teensy")(type "Legacy")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/Teensy/teensy.lib")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "TSSP58038")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/TSSP58038/TSSP58038.kicad_sym")(options "")(descr ""))
+  (lib (name "L3GD20H_Module_KiCad6.0")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/L3GD20H_Module/L3GD20H_Module_KiCad6.0.kicad_sym")(options "")(descr ""))
+  (lib (name "BNO055 new")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/BNO055/BNO055 new.kicad_sym")(options "")(descr ""))
+  (lib (name "open_mv")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/OpenMV/open_mv.kicad_sym")(options "")(descr ""))
+  (lib (name "SSD1306-128x64_OLED")(type "Legacy")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/SSD1306/SSD1306-128x64_OLED.lib")(options "")(descr ""))
+  (lib (name "TWELITE UART")(type "KiCad")(uri "/Users/yume/Documents/Artemis/Artemis_2024/CommonData/KiCad_Library/TWELITE UART/TWELITE UART.kicad_sym")(options "")(descr ""))
+)
