@@ -6,10 +6,14 @@ OpenLeague→LightWeightと方針を転換しました。
 OpenLeagueの残骸に関しては2025シーズンに向けての開発と思ってもらえればよきです。
 
 ## 最終活動結果
-・北九州ノード 優勝
-・九州ブロック 準優勝 / 優秀プレゼンテーション賞
-・RoboCupJunior2024 JapanOpen Nagoya 世界大会推薦順位3位
-・RoboCup2024 Eindhoven Individual 3rd Place / Top Poster & Presentation
+### 北九州ノード 
+  優勝  
+### 九州ブロック 
+  準優勝 / 優秀プレゼンテーション賞  
+### RoboCupJunior2024 JapanOpen Nagoya 
+  世界大会推薦順位3位  
+### RoboCup2024 Eindhoven 
+  Individual 3rd Place / Top Poster & Presentation  
 
 ## リポジトリについて
 ・フォルダ階層をきれいにしよう  
